@@ -1,11 +1,12 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-starter-with-intl
+Starter kit for Gatsby with dynamic language loading
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 ```
-gatsby new gatsby-example-site
+yarn install
+yarn dev
 ```
 
 ## Deploy
